@@ -1,0 +1,6 @@
+[submodule "gravitas"]
+	path = gravitas
+	url = git@github.com:anubhavitis/gravitas.git
+[submodule "gravitas-frontend"]
+	path = gravitas-frontend
+	url = https://github.com/starc007/gravitas-frontend
